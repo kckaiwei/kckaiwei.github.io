@@ -18,8 +18,6 @@ ul {
     padding:0;
     overflow:hidden;
     background-color: #505050;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 li {
@@ -42,4 +40,10 @@ li a:hover:not(.active){
 
 .active{
     background-color: #9BD7D5;
+}
+
+.nav{
+    margin-left: auto;
+    margin-right: auto;
+}
 }
