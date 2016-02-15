@@ -1,16 +1,16 @@
-h1 {
+#MainTitle {
     text-align: center;
     color: #129793;
 }
 
-h2 {
+#Subtitle {
     color: #505050;
     text-align: center;
 } 
 
 p {
     color: #505050;
-    text-align: center;
+
 } 
 
 ul {
