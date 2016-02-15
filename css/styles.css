@@ -12,3 +12,12 @@ p {
     color: #505050;
     text-align: center;
 } 
+
+nav-li {
+    display: inline;
+}
+
+nav-li a {
+    display: block;
+    padding: 8px;
+}
