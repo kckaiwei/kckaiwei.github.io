@@ -13,7 +13,7 @@ p {
     text-align: center;
 } 
 
-#nav ul {
+ul {
     margin:0 auto;
     list-style-type:none;
     padding:0;
@@ -21,12 +21,12 @@ p {
     background-color: #505050;
 }
 
-#nav li {
+li {
     float: left;
     
 }
 
-#nav li a {
+li a {
     display: block;
     color: white;
     text-align: center;
@@ -36,10 +36,10 @@ p {
 
 }
 
-#nav li a:hover:not(.active){
+li a:hover:not(.active){
     background-color: #1a1a1a;
 }
 
-#nav .active{
+.active{
     background-color: #9BD7D5;
 }
