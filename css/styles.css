@@ -20,11 +20,11 @@ ui {
     overflow:hidden;
 }
 
-nav-li {
-    display: inline;
+li {
+    float:left;
 }
 
-nav-li a {
+li a {
     display: block;
     padding: 8px;
     text-align: center;
