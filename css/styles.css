@@ -18,6 +18,7 @@ ul {
     margin:0;
     padding:0;
     overflow:hidden;
+    background-color: #505050;
 }
 
 li {
@@ -27,6 +28,11 @@ li {
 li a {
     display: block;
     padding: 8px;
+    color: white;
     text-align: center;
     text-decoration:none;
+}
+
+li a:hover{
+    background-color: #1a1a1a;
 }
