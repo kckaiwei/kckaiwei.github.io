@@ -1,9 +1,9 @@
-MainTitle {
+.MainTitle {
     text-align: center;
     color: #129793;
 }
 
-Subtitle {
+.Subtitle {
     color: #505050;
     text-align: center;
 } 
