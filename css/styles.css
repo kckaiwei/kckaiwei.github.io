@@ -31,6 +31,8 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration:none;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
@@ -40,9 +42,4 @@ li a:hover:not(.active){
 
 .active{
     background-color: #9BD7D5;
-}
-
-.nav{
-    margin-left: auto;
-    margin-right: auto;
 }
