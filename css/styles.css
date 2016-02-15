@@ -27,4 +27,6 @@ nav-li {
 nav-li a {
     display: block;
     padding: 8px;
+    text-align: center;
+    text-decoration:none;
 }
