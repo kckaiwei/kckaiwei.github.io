@@ -22,12 +22,11 @@ ul {
 }
 
 li {
-    display: inline;
+    float: center;
 }
 
 li a {
     display: block;
-    padding: 8px;
     color: white;
     text-align: center;
     padding: 14px 16px;
