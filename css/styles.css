@@ -49,3 +49,7 @@ li a:hover:not(.active){
 .active{
     background-color: #9BD7D5;
 }
+
+.headerlink{
+    color: #9BD7D5;
+}
