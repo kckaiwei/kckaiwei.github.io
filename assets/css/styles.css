@@ -50,7 +50,7 @@ header{
 
 header:after{
 	content:'';
-	background:url('../img/header_border.jpg') repeat-x;
+	background:url('../img/header_border2.jpg') repeat-x;
 	height:12px;
 	width:100%;
 	left:0;
