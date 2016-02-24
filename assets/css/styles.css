@@ -62,7 +62,7 @@ header h2{
 	font: normal 28px 'Rochester', cursive;
 	text-align:center;
 	padding:5px;
-	background-color:#3a3a3b;
+	background-color:#6D929B;
 	box-shadow:0 1px 2px #888;
 	border:1px solid #333;
 	position:absolute;
@@ -76,7 +76,7 @@ header h2{
 header h1{
 	text-align:center;
 	font: normal 56px 'Bree Serif', sans-serif;
-	color:#494949;
+	color:#6D929B;
 	padding:60px 0 40px;
 	text-shadow:1px 1px 1px rgba(0,0,0,0.1);
 }
