@@ -157,7 +157,7 @@ h3{
 	
 #carousel li:after{
 	content:'';
-	background:url('../img/cradle.png2') no-repeat top center;
+	background:url('../img/cradle2.png') no-repeat top center;
 	background-size:contain;
 	bottom: 4%;
     content: "";
