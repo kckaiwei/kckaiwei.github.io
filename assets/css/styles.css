@@ -106,7 +106,7 @@ h3{
 	text-align:center;
 	height:60px;
 	background-color:#ACD1E9;
-	box-shadow:0 3px 5px #111;
+	box-shadow:0 3px 5px #ACD1E9;
 	
 	/* Initially hidden */
 	opacity:0;
