@@ -59,6 +59,70 @@ span.border.secondary{
   color: #f7f7f7;
 }
 
+.fixed-nav-bar {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 9999;
+	width: 100%;
+	height: 50px;
+	background-color: #374048;
+	color: #e0e0e0;
+	font-family: Century Gothic, sans-serif;
+}
+
+#logo {
+	display: inline;
+	float: left;
+	margin-left: 10px;
+	font-size: 150%;
+	border-style: solid;
+	margin: 1px 1px 1px 1px;
+}
+
+.menu-items {
+	float: right;
+	margin-right: 10px;
+	display: inline;
+	list-style-type: none;
+}
+
+.menu-items li {
+	display: inline;
+	height: 100%;
+}
+
+.menu-items li a {
+	text-decoration: none;
+	color: #e0e0e0;
+}
+
+.menu-items li a:visited{
+	text-decoration: none;
+	color: #e0e0e0;
+}
+
+.menu-items li a:hover {
+	text-decoration: none;
+	background-color: #21262B;
+}
+
+.menu-items li a:active {
+	text-decoration: none;
+	background-color: #909295;
+}
+
+.name-logo {
+	font: "Lato", sans-serif;
+	font-size: 140%; 
+	color: white;
+	display: block;
+	padding: 2px 2px 2px 2px;
+	letter-spacing: 10px;
+	border-style: solid;
+	border-width: 2px;
+}
+
 .bgimg-0{
 	/* The image used */
     background-image: url(../assets/img/program-bg2.jpg);
